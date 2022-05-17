@@ -1,0 +1,59 @@
+.img {
+    width: 90px;
+    height: 50px;
+    margin-left: 60px;
+  }
+  body{
+    color: black;
+    background: #E1D1DE;
+    text-align: center;
+    margin: 0;
+    
+  }
+  .argent{
+    width: 200px;
+    height: 250px;
+  }
+  section{
+    justify-content: space-evenly;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin: top;
+    display: flex;
+    align-items: center;
+    }
+  .ski{
+    width: 200px;
+    height: 250px;
+    }
+  .coussin{
+     width: 200px;
+    height: 250px;
+  a: hover {
+  color: #0000FF;
+  text-decoration: underline;
+  background-color: #FFFF00;
+  font-weight: bold;
+  font-style: normal;
+  }
+  
+  }
+  footer{
+    background: #C9C9D3;
+    color: #94728E;
+    text-align: center;
+  }
+  .h3{
+    font-size: 18px;
+  }
+  .gmail{
+    width: 90px;
+    height: 60px;
+    border-radius: 50px;
+  }
+  .whattsap{
+    border-radius: 50px;
+    width: 120px;
+    height: 60px;
+  }
+  
