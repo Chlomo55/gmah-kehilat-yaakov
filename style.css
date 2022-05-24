@@ -8,8 +8,11 @@
     background: #E1D1DE;
     text-align: center;
     margin: 0;
-    
   }
+
+.img-footer{
+  display: inline-block;
+}
   .argent{
     width: 200px;
     height: 250px;
@@ -25,18 +28,11 @@
   .ski{
     width: 200px;
     height: 250px;
+    border: 2px solid black;
     }
   .coussin{
      width: 200px;
     height: 250px;
-  a: hover {
-  color: #0000FF;
-  text-decoration: underline;
-  background-color: #FFFF00;
-  font-weight: bold;
-  font-style: normal;
-  }
-  
   }
   footer{
     background: #C9C9D3;
@@ -56,4 +52,3 @@
     width: 120px;
     height: 60px;
   }
-  
